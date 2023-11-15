@@ -1,7 +1,7 @@
-# Initialize a variable 'a' to 1 and start an infinite while loop.
-# Inside the loop, print the current value of 'a' and increment it by 1 in each iteration.
+# Initialize a variable 'inf_loop' to 1 and start an infinite while loop.
+# Inside the loop, print the current value of 'inf_loop' and increment it by 1 in each iteration.
 
-a=1
+inf_loop=1
 while True:
-    print(a)
-    a=a+1
+    print(inf_loop)
+    inf_loop=inf_loop+1
