@@ -1,6 +1,6 @@
 #Defining a function 
 def make_shirt(size, message):
-    """Reflect about the shirt that's going to be made."""
+    """Reflect on the shirt that's going to be made."""
     print(f"\nI'm going to make a {size} t-shirt.")
     print(f'It will show, "{message}"')
 
